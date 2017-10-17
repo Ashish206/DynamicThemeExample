@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme1" >
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme2" >
+        <item name="colorPrimary">#9c27b0</item>
+        <item name="colorPrimaryDark">#7b1fa2</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme3" >
+        <item name="colorPrimary">#03a9f4</item>
+        <item name="colorPrimaryDark">#0288d1</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme4" >
+        <item name="colorPrimary">#8bc34a</item>
+        <item name="colorPrimaryDark">#689f38</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme5" >
+        <item name="colorPrimary">#cddc39</item>
+        <item name="colorPrimaryDark">#afb42b</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme6" >
+        <item name="colorPrimary">#f57c00</item>
+        <item name="colorPrimaryDark">#ff5722</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme7" >
+        <item name="colorPrimary">#795548</item>
+        <item name="colorPrimaryDark">#5d4037</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme8" >
+        <item name="colorPrimary">#607d8b</item>
+        <item name="colorPrimaryDark">#455a64</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
